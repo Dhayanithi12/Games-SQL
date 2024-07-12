@@ -33,6 +33,12 @@ Execute the SQL queries provided in games_data.sql to analyze the games data.
 Here are some of the analytical queries included in games_data.sql:
 
 Top 10 games based on ratings.
+
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/fb12e694-4174-4a2d-8f5a-9b72b9fbc1f7">
+
+
+
+
 Average scores for games by genre.
 Count of games released in each decade.
 Top genres with the most games.
