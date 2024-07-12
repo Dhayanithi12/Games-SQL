@@ -37,15 +37,19 @@ Top 10 games based on ratings.
 <img width="734" alt="image" src="https://github.com/user-attachments/assets/fb12e694-4174-4a2d-8f5a-9b72b9fbc1f7">
 
 Bottom 10 Games by IMDb Score
+
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/741ef14b-856b-451c-af36-31615fe65d5b">
 
 Average IMDb and TMDB Scores for Games
+
 <img width="717" alt="image" src="https://github.com/user-attachments/assets/5c895f6e-0813-498e-91f0-d5a5a9497f39">
 
 Count of Games Released in Each Decade
+
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/fb5a8a71-5b1a-487e-bb62-7714a0311130">
 
 Average IMDb and TMDB Scores by Production Country for Games
+
 <img width="661" alt="image" src="https://github.com/user-attachments/assets/b3e2c91c-36b4-43a5-b8c9-e776694a4ac3">
 
 
